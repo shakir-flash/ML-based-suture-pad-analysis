@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['suture_good', 'suture_loose', 'suture_tight']
+
+roboflow:
+  workspace: suture-analysis-data-labeling
+  project: suture-analysis-dnuqd
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/suture-analysis-data-labeling/suture-analysis-dnuqd/dataset/1
