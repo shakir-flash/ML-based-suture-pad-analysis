@@ -1,6 +1,5 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: C:/Users/shaki/Documents/VSCode/ML Based Suture Pad Analysis/ML-based-suture-pad-analysis/data/labeled_data/train/images
+val: C:/Users/shaki/Documents/VSCode/ML Based Suture Pad Analysis/ML-based-suture-pad-analysis/data/labeled_data/val/images
 
 nc: 3
 names: ['suture_good', 'suture_loose', 'suture_tight']
