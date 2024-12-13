@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: knot_good
+  1: knot_loose
+  2: knot_perfect
+  3: knot_tight
+  4: suture_good
+  5: suture_loose
+  6: suture_perfect
+  7: suture_tight
