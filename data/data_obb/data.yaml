@@ -1,0 +1,17 @@
+train: C:/Users/shaki/Documents/VSCode/ML Based Suture Pad Analysis/ML-based-suture-pad-analysis/data/data_obb/train/images
+val: C:/Users/shaki/Documents/VSCode/ML Based Suture Pad Analysis/ML-based-suture-pad-analysis/data/data_obb/valid/images
+
+names: 
+  0: incision_bent
+  1: incision_good
+  2: incision_perfect
+  3: knot_good
+  4: knot_loose
+  5: knot_perfect
+  6: knot_tight
+  7: onecm
+  8: ruler
+  9: suture_good
+  10: suture_loose
+  11: suture_perfect
+  12: suture_tight

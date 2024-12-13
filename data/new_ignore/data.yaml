@@ -1,0 +1,18 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: incision_bent
+  1: incision_good
+  2: incision_perfect
+  3: knot_good
+  4: knot_loose
+  5: knot_perfect
+  6: knot_tight
+  7: suture_good
+  8: suture_loose
+  9: suture_perfect
+  10: suture_tight
+  11: tail_end
+  12: tail_top
